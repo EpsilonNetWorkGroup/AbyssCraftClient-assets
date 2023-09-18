@@ -1,0 +1,17 @@
+{
+  "abysscraft.test": "测试",
+  "abysscraft.inGameHud.OutOfBorder": "有一些诅咒盯上了你, 立即返回",
+  "abysscraft.inGameHud.lagNotice": "自从服务器未响应: %.1f秒",
+  "abysscraft.orth.name": "奥斯",
+  "abysscraft.orth.description": "深渊边缘的城镇",
+  "abysscraft.edge_of_the_abyss.name": "阿比斯之渊",
+  "abysscraft.edge_of_the_abyss.description": "0-1510 格",
+  "abysscraft.forest_of_temptation.name": "诱惑之森",
+  "abysscraft.forest_of_temptation.description": "1510-2580 格",
+  "abysscraft.great_fault.name": "大断层",
+  "abysscraft.great_fault.description": "2580-4020 格",
+  "abysscraft.the_goblets_of_giants.name": "巨人之杯",
+  "abysscraft.the_goblets_of_giants.description": "4020-5850 格",
+  "abysscraft.sea_of_corpses.name": "亡骸之海",
+  "abysscraft.sea_of_corpses.description": "5850-7200 格"
+}

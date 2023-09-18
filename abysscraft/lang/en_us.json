@@ -1,0 +1,17 @@
+{
+  "abysscraft.test": "Test",
+  "abysscraft.inGameHud.OutOfBorder": "You have been targeted by some curse, return immediately",
+  "abysscraft.inGameHud.lagNotice": "Since server not responding: %.1fs",
+  "abysscraft.orth.name": "Orth",
+  "abysscraft.orth.description": "City of the Great Pit",
+  "abysscraft.edge_of_the_abyss.name": "Edge of the Abyss",
+  "abysscraft.edge_of_the_abyss.description": "0-1510 blocks",
+  "abysscraft.forest_of_temptation.name": "Forest of Temptation",
+  "abysscraft.forest_of_temptation.description": "1510-2580 blocks",
+  "abysscraft.great_fault.name": "Great Fault",
+  "abysscraft.great_fault.description": "2580–4020 blocks",
+  "abysscraft.the_goblets_of_giants.name": "The Goblets of Giants",
+  "abysscraft.the_goblets_of_giants.description": "4020–5850 blocks",
+  "abysscraft.sea_of_corpses.name": "Sea of Corpses",
+  "abysscraft.sea_of_corpses.description": "5850–7200 blocks"
+}
