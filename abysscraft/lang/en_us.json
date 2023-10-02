@@ -1,5 +1,7 @@
 {
   "abysscraft.test": "Test",
+  "abysscraft.inGameHud.MiningModeOn": "MiningMode: On",
+  "abysscraft.inGameHud.MiningModeOff": "MiningMode: Off",
   "abysscraft.inGameHud.OutOfBorder": "You have been targeted by some curse, return immediately",
   "abysscraft.inGameHud.lagNotice": "Since server not responding: %.1fs",
   "abysscraft.orth.name": "Orth",

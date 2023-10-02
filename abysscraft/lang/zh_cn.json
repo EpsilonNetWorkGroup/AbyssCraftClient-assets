@@ -1,5 +1,7 @@
 {
   "abysscraft.test": "测试",
+  "abysscraft.inGameHud.MiningModeOn": "挖矿模式: 打开",
+  "abysscraft.inGameHud.MiningModeOff": "挖矿模式: 关闭",
   "abysscraft.inGameHud.OutOfBorder": "有一些诅咒盯上了你, 立即返回",
   "abysscraft.inGameHud.lagNotice": "自从服务器未响应: %.1f秒",
   "abysscraft.orth.name": "奥斯",
