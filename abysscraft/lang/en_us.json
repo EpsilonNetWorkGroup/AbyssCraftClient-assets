@@ -1,5 +1,6 @@
 {
   "abysscraft.test": "Test",
+  "abysscraft.inGameHud.MiningFoundOre": "You found a hidden vein!",
   "abysscraft.inGameHud.MiningModeOn": "MiningMode: On",
   "abysscraft.inGameHud.MiningModeOff": "MiningMode: Off",
   "abysscraft.inGameHud.OutOfBorder": "You have been targeted by some curse, return immediately",
