@@ -1,5 +1,6 @@
 {
   "abysscraft.test": "Test",
+  "abysscraft.disconnect.anticheatverifyfail": "Anti-cheating verification failed, please make sure you have installed ClientGuard",
   "abysscraft.inGameHud.bossBar.Stamina": "Stamina",
   "abysscraft.inGameHud.MiningFoundOre": "You found a hidden vein!",
   "abysscraft.inGameHud.MiningModeOn": "MiningMode: On",
