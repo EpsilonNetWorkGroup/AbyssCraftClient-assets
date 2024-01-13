@@ -1,8 +1,0 @@
-pull_request_title: Crowdin L10n Update
-pull_request_labels:
-  - L10n
-append_commit_message: 
-commit_message: '[ci skip] Crowdin L10n Update'
-files:
-  - source: /abysscraft/lang/en_us.json
-    translation: /abysscraft/lang/%locale_with_underscore%.json
