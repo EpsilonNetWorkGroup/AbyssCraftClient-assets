@@ -43,5 +43,7 @@
     "entity.abysscraft.okibo": "基博",
     "entity.abysscraft.fuwaki": "蓬松兔",
     "effect.abysscraft.dizzinessandvomiting": "上升负荷: 晕眩与呕吐感",
-    "item.abysscraft.cyatoria_drumstick.tooltip_1": "在 %s 和 %s 中找到的 阪渡鸟 身上掉落"
+    "item.abysscraft.cyatoria_drumstick.tooltip_1": "在 %s 和 %s 中找到的 阪渡鸟 身上掉落",
+    "item.abysscraft.cyatoria_drumstick.tooltip_3": "我向你保证，这玩意味道就像鸡肉......",
+    "item.abysscraft.cyatoria_drumstick.tooltip_2": "据说是第七层 (最终极之涡) 的稀有生物的后代"
 }
