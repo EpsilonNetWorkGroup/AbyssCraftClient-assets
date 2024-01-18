@@ -1,1 +1,5 @@
-{}
+{
+  "abysscraft.disconnect.anticheatverifyfail": "アンチチート検証に失敗しました。ClientGuard がインストールされていることを確認してください",
+  "abysscraft.inGameHud.MiningFoundOre": "あなたは隠れた鉱脈を見つけた！",
+  "abysscraft.inGameHud.OutOfBorder": "この場所は恐ろしい呪いに満ちている，すぐに安全な場所に戻りなさい"
+}
