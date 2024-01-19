@@ -1,17 +1,17 @@
 {
   "abysscraft.disconnect.anticheatverifyfail": "アンチチート検証に失敗しました。ClientGuard がインストールされていることを確認してください",
-  "abysscraft.inGameHud.MiningFoundOre": "あなたは隠された鉱脈を見つけた！",
-  "abysscraft.inGameHud.MiningModeOff": "採掘モード:オフ",
-  "abysscraft.inGameHud.MiningModeOn": "採掘モード:オン",
+  "abysscraft.inGameHud.MiningFoundOre": "秘境を見つけた！",
+  "abysscraft.inGameHud.MiningModeOff": "探掘モード:オフ",
+  "abysscraft.inGameHud.MiningModeOn": "探掘モード:オン",
   "abysscraft.inGameHud.OutOfBorder": "この場所は恐ろしい呪いに満ちている，すぐに安全な場所に戻りなさい",
   "abysscraft.inGameHud.bossBar.Stamina": "スタミナ",
   "abysscraft.inGameHud.lagNotice": "サーバーが応答していません: %.1fs",
   "abysscraft.region.edge_of_the_abyss.description": "0-1510ブロック",
-  "abysscraft.region.edge_of_the_abyss.name": "深淵の端",
+  "abysscraft.region.edge_of_the_abyss.name": "アビスの淵",
   "abysscraft.region.forest_of_temptation.description": "1510-2580ブロック",
-  "abysscraft.region.forest_of_temptation.name": "魅惑の森",
+  "abysscraft.region.forest_of_temptation.name": "誘いの森",
   "abysscraft.region.great_fault.description": "2580–4020ブロック",
-  "abysscraft.region.great_fault.name": "偉大なる過ち",
+  "abysscraft.region.great_fault.name": "",
   "abysscraft.region.orth.name": "オース",
   "abysscraft.region.sea_of_corpses.description": "5850-7200 ブロック",
   "abysscraft.region.sea_of_corpses.name": "なきがらの海",
@@ -20,5 +20,7 @@
   "abysscraft.test": "テスト中",
   "effect.abysscraft.dizzinessandvomiting": "アビスの呪い:めまいと嘔吐",
   "entity.abysscraft.cyatoria": "サカワタリ",
-  "entity.abysscraft.fuwaki": "フワキ"
+  "entity.abysscraft.fuwaki": "フワキ",
+  "entity.abysscraft.hammerbeak": "ハンマービーク",
+  "entity.abysscraft.silkfang": "ゴコウゲ"
 }
