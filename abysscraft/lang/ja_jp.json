@@ -22,7 +22,10 @@
   "effect.abysscraft.dizzinessandvomiting": "アビスの呪い:めまいと嘔吐",
   "entity.abysscraft.cyatoria": "サカワタリ",
   "entity.abysscraft.fuwaki": "フワキ",
-  "entity.abysscraft.hammerbeak": "ハンマービーク",
+  "entity.abysscraft.hammerbeak": "ツチバシ",
   "entity.abysscraft.silkfang": "ゴコウゲ",
+  "entity.abysscraft.splitjaw": "クチナワ",
+  "item.abysscraft.cyatoria_drumstick": "サカワタリの骨付き生肉",
+  "item.abysscraft.cyatoria_drumstick_cooked": "サカワタリの骨付き肉",
   "item.abysscraft.cyatoria_feather": "サカワタリの羽"
 }
