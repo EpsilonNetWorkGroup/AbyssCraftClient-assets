@@ -27,5 +27,10 @@
   "entity.abysscraft.splitjaw": "クチナワ",
   "item.abysscraft.cyatoria_drumstick": "サカワタリの骨付き生肉",
   "item.abysscraft.cyatoria_drumstick_cooked": "サカワタリの骨付き肉",
-  "item.abysscraft.cyatoria_feather": "サカワタリの羽"
+  "item.abysscraft.cyatoria_feather": "サカワタリの羽",
+  "item.abysscraft.fuwagi_hide.tooltip_2": "やわらかくて肌触りがいいね。これを使って上質のセーターがつくれるよ。",
+  "item.abysscraft.fuwagi_meat.tooltip_1": "足の速く好奇心のあるものから",
+  "item.abysscraft.hammerbeak_beak": "ツチバシのくちばし",
+  "item.abysscraft.hammerbeak_beak.tooltip_1": "少量の鋼と合わせて使用したとき、着火剤として使用できる。",
+  "item.abysscraft.hammerbeak_beak.tooltip_2": "目をくりぬくのに十分鋭どそうだ。"
 }
