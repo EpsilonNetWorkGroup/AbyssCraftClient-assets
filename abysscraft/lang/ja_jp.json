@@ -37,5 +37,18 @@
   "item.abysscraft.hammerbeak_beak": "ツチバシのくちばし",
   "item.abysscraft.hammerbeak_beak.tooltip_1": "少量の鋼と合わせて使用したとき、着火剤として使用できる。",
   "item.abysscraft.hammerbeak_beak.tooltip_2": "目をくりぬくのに十分鋭どそうだ。",
-  "item.abysscraft.hammerbeak_egg": "ツチバシの卵"
+  "item.abysscraft.hammerbeak_egg": "ツチバシの卵",
+  "item.abysscraft.hammerbeak_egg.tooltip_1": "料理の材料として、またはいたずらの道具として使用できる。",
+  "item.abysscraft.hammerbeak_egg.tooltip_2": "ツチバシの母親は不快そうだ…",
+  "item.abysscraft.hammerbeak_feather": "ツチバシの父親",
+  "item.abysscraft.hammerbeak_feather.tooltip_1": "とても燃えやすそうだ。",
+  "item.abysscraft.hammerbeak_wing": "生のツチバシの手羽先",
+  "item.abysscraft.hammerbeak_wing.tooltip_1": "ちゃんと調理したらおいしそうだ！",
+  "item.abysscraft.hammerbeak_wing_cooked": "ツチバシの手羽先",
+  "item.abysscraft.hammerbeak_wing_cooked.tooltip_1": "おいしい！",
+  "item.abysscraft.okibo_leather.tooltip_1": "だいたい %s で見つけられる",
+  "item.abysscraft.okibo_leather.tooltip_2": "必要があれば、冬の間ずっと暖かくしてくれそうだ。",
+  "item.abysscraft.okibo_meat.tooltip_1": "だいたい商品の輸送減として %s でみつけられる",
+  "item.abysscraft.okibo_meat.tooltip_2": "また、体も大きいため食料減としても最適である。",
+  "item.abysscraft.okibo_meat_cooked.tooltip_1": "うまく調理すれば素晴らしい味になるだろう。"
 }
