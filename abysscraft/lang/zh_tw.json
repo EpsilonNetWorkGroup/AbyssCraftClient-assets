@@ -1,3 +1,24 @@
 {
-  "abysscraft.test": "測試"
+  "abysscraft.disconnect.anticheatverifyfail": "防作弊驗證失敗，請確認您已安裝ClientGuard",
+  "abysscraft.inGameHud.MiningFoundOre": "你發現了一處隱藏的礦脈！",
+  "abysscraft.inGameHud.MiningModeOff": "挖礦模式：關閉",
+  "abysscraft.inGameHud.MiningModeOn": "挖礦模式：開啟",
+  "abysscraft.inGameHud.OutOfBorder": "此處充滿了可怕的詛咒，立即折返至安全的地方",
+  "abysscraft.inGameHud.bossBar.Stamina": "耐力",
+  "abysscraft.inGameHud.lagNotice": "未收到伺服器的回應： %.1f秒",
+  "abysscraft.region.edge_of_the_abyss.description": "深度 0-1510 米",
+  "abysscraft.region.edge_of_the_abyss.name": "阿比斯之淵",
+  "abysscraft.region.forest_of_temptation.description": "深度 1510-2580 米",
+  "abysscraft.region.forest_of_temptation.name": "誘惑之森",
+  "abysscraft.region.great_fault.description": "深度 2580–4020 米",
+  "abysscraft.region.great_fault.name": "大斷層",
+  "abysscraft.region.orth.description": "大洞城鎮",
+  "abysscraft.region.orth.name": "奧斯鎮",
+  "abysscraft.region.sea_of_corpses.description": "深度 5850-7200 米",
+  "abysscraft.region.sea_of_corpses.name": "亡骸之海",
+  "abysscraft.region.the_goblets_of_giants.description": "深度 4020-5850 米",
+  "abysscraft.region.the_goblets_of_giants.name": "巨人之杯",
+  "abysscraft.test": "測試",
+  "item.abysscraft.cyatoria_drumstick": "生渡波腿肉",
+  "itemgroup.abysscraft": "深淵工藝"
 }
