@@ -1,5 +1,6 @@
 {
   "abysscraft.disconnect.anticheatverifyfail": "反作弊验证失败, 请确定您已安装 ClientGuard",
+  "abysscraft.disconnect.serverversionmismatch": "请确保连接到AbyssCraft服务器并更新AbyssCraftClient mod。\n服务器: %s  客户端: %s",
   "abysscraft.inGameHud.MiningFoundOre": "你找到了一条隐藏的矿脉!",
   "abysscraft.inGameHud.MiningModeOff": "挖矿模式: 关闭",
   "abysscraft.inGameHud.MiningModeOn": "挖矿模式: 打开",

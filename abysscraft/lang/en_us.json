@@ -1,5 +1,6 @@
 {
   "abysscraft.disconnect.anticheatverifyfail": "Anti-cheating verification failed, please make sure you have installed ClientGuard",
+  "abysscraft.disconnect.serverversionmismatch": "Please make sure to connect to the AbyssCraft server and update the AbyssCraftClient mod.\n Server: %s Client: %s",
   "abysscraft.inGameHud.MiningFoundOre": "You found a hidden vein!",
   "abysscraft.inGameHud.MiningModeOff": "MiningMode: Off",
   "abysscraft.inGameHud.MiningModeOn": "MiningMode: On",
