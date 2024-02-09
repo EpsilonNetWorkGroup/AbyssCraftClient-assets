@@ -27,6 +27,8 @@
   "entity.abysscraft.okibo": "Okibo",
   "entity.abysscraft.silkfang": "Silkfang",
   "entity.abysscraft.splitjaw": "Splitjaw",
+  "item.abysscraft.abyss_coin": "Abyss Coin",
+  "item.abysscraft.abyss_coin.tooltip_1": "Fiat currency in this world",
   "item.abysscraft.cyatoria_drumstick": "Raw Cyatoria Drumstick",
   "item.abysscraft.cyatoria_drumstick.tooltip_1": "Said to be the offspring of a rare creature originating from the 7th Layer, The Final Maelstrom.",
   "item.abysscraft.cyatoria_drumstick.tooltip_2": "I assure you, it tastes just like chicken…",
