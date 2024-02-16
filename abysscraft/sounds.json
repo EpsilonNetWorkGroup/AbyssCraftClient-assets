@@ -1,0 +1,37 @@
+{
+  "ambient.inverted_forest.mood": {
+    "sounds": [
+      {"name": "abysscraft:ambient/inverted_forest/mood", "stream":true}
+    ]
+  },
+  "ambient.sea_of_corpses.additions": {
+    "sounds": [
+      {"name": "abysscraft:ambient/sea_of_corpses/additions", "stream":true}
+    ]
+  },
+  "ambient.sea_of_corpses.loop": {
+    "sounds": [
+      {"name": "abysscraft:ambient/sea_of_corpses/loop", "stream":true}
+    ]
+  },
+  "ambient.sea_of_corpses.mood": {
+    "sounds": [
+      {"name": "abysscraft:ambient/sea_of_corpses/mood", "stream":true}
+    ]
+  },
+  "ambient.the_great_fault.mood": {
+    "sounds": [
+      {"name": "abysscraft:ambient/the_great_fault/mood", "stream":true}
+    ]
+  },
+  "music_disc.deep_in_abyss": {
+    "sounds": [
+      {"name": "abysscraft:music_disc/deep_in_abyss", "stream":true}
+    ]
+  },
+  "music_disc.orth_waltz": {
+    "sounds": [
+      {"name": "abysscraft:music_disc/orth_waltz", "stream":true}
+    ]
+  }
+}
