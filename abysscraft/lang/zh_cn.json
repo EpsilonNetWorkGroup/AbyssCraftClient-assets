@@ -76,6 +76,8 @@
   "item.abysscraft.splitjaw_scales": "红蛇鳞",
   "item.abysscraft.splitjaw_scales.tooltip_1": "偶尔 %s",
   "item.abysscraft.splitjaw_scales.tooltip_2": "可用于制作特定的方块。",
+  "item.abysscraft.star_compass": "星之罗盘",
+  "item.abysscraft.star_compass.tooltip_1": "这个罗盘指向 §a深渊§r 的中心",
   "item.abysscraft.tooltip.drop_from": "在 %2$s 和 %3$s 中找到的 %1$s 身上掉落",
   "itemgroup.abysscraft": "深渊工艺"
 }

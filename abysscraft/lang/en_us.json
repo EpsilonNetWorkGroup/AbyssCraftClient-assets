@@ -76,6 +76,8 @@
   "item.abysscraft.splitjaw_scales": "Splitjaw Scales",
   "item.abysscraft.splitjaw_scales.tooltip_1": "Occasionally %s",
   "item.abysscraft.splitjaw_scales.tooltip_2": "Can be used to make certain blocks.",
+  "item.abysscraft.star_compass": "Star Compass",
+  "item.abysscraft.star_compass.tooltip_1": "Points towards the center of the §aAbyss§r",
   "item.abysscraft.tooltip.drop_from": "Dropped by %1$s, at %2$s and %3$s",
   "itemgroup.abysscraft": "AbyssCraft"
 }
