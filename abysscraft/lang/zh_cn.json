@@ -123,7 +123,7 @@
   "item.abysscraft.star_compass": "星之罗盘",
   "item.abysscraft.star_compass.tooltip_1": "这个罗盘指向 §a深渊§r 的中心",
   "item.abysscraft.depth_gauge": "深度计",
-  "item.abysscraft.depth_gauge.tooltip_1": "探险家使用左键单击来跟踪自身所在的深度",
+    "item.abysscraft.depth_gauge.tooltip_1": "探险家使用右键单击来跟踪自身所在的深度",
   "item.abysscraft.depth_gauge.tooltip_2": "由于力场的原因，普通气压计无法在深渊中使用",
   "item.abysscraft.tooltip.drop_from": "在 %2$s 和 %3$s 中找到的 %1$s 身上掉落",
   "itemgroup.abysscraft": "深渊工艺"

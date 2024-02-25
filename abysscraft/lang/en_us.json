@@ -123,7 +123,7 @@
   "item.abysscraft.star_compass": "Star Compass",
   "item.abysscraft.star_compass.tooltip_1": "Points towards the center of the §aAbyss§r",
   "item.abysscraft.depth_gauge": "Depth Gauge",
-  "item.abysscraft.depth_gauge.tooltip_1": "Left-clicking is used by explorers to track their depth",
+  "item.abysscraft.depth_gauge.tooltip_1": "Right-clicking is used by explorers to track their depth",
   "item.abysscraft.depth_gauge.tooltip_2": "Normal barometers cannot be used in the Abyss because of the Force Field",
   "item.abysscraft.tooltip.drop_from": "Dropped by %1$s, at %2$s and %3$s",
   "itemgroup.abysscraft": "AbyssCraft"
