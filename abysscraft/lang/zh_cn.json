@@ -4,6 +4,7 @@
   "abysscraft.inGameHud.MiningFoundOre": "你找到了一条隐藏的矿脉!",
   "abysscraft.inGameHud.MiningModeOff": "挖矿模式: 关闭",
   "abysscraft.inGameHud.MiningModeOn": "挖矿模式: 打开",
+  "abysscraft.inGameHud.FastTravel": "%s 快速旅行\n只有在合适的地方才可以使用",
   "abysscraft.inGameHud.OutOfBorder": "这个地方充满了诅咒, 立即回到安全的地方",
   "abysscraft.inGameHud.bossBar.Stamina": "耐力",
   "abysscraft.inGameHud.lagNotice": "自从服务器未响应: %.1f秒",

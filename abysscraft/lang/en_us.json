@@ -4,6 +4,7 @@
   "abysscraft.inGameHud.MiningFoundOre": "You found a hidden vein!",
   "abysscraft.inGameHud.MiningModeOff": "MiningMode: Off",
   "abysscraft.inGameHud.MiningModeOn": "MiningMode: On",
+  "abysscraft.inGameHud.FastTravel": "%s fast travel\nOnly available in appropriate places",
   "abysscraft.inGameHud.OutOfBorder": "This place is full of terrible curses, return to a safe place immediately",
   "abysscraft.inGameHud.bossBar.Stamina": "Stamina",
   "abysscraft.inGameHud.lagNotice": "Since server not responding: %.1fs",
