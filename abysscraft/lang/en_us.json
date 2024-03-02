@@ -57,6 +57,8 @@
   "abysscraft.region.the_goblets_of_giants.description": "4020–5850 blocks",
   "abysscraft.region.the_goblets_of_giants.name": "The Goblets of Giants",
   "abysscraft.test": "Test",
+  "block.abysscraft.bonfire": "BonFire",
+  "block.abysscraft.bonfire.tooltip_1": "Right-click to set the birth point on the abyss, but be careful of being destroyed by various accidents",
   "effect.abysscraft.dizziness_and_vomiting": "Strains of Ascension: DizzinessAndVomiting",
   "effect.abysscraft.nerve_palsy": "Strains of Ascension: NervePalsy",
   "entity.abysscraft.beniguma": "Beniguma",

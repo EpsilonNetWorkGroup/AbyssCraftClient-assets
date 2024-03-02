@@ -57,6 +57,8 @@
   "abysscraft.region.the_goblets_of_giants.description": "4020-5850 格",
   "abysscraft.region.the_goblets_of_giants.name": "巨人之杯",
   "abysscraft.test": "测试",
+  "block.abysscraft.bonfire": "篝火",
+  "block.abysscraft.bonfire.tooltip_1": "右键可设置在深渊上的出生点, 但是要小心被各种意外摧毁",
   "effect.abysscraft.dizziness_and_vomiting": "上升负荷: 晕眩与呕吐感",
   "effect.abysscraft.nerve_palsy": "上升负荷: 神经麻痹",
   "entity.abysscraft.beniguma": "野莓熊",
