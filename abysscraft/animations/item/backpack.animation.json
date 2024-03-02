@@ -1,0 +1,32 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"top_open": {
+			"animation_length": 1,
+			"bones": {
+				"top_lid": {
+					"relative_to": {
+						"rotation": "entity"
+					},
+					"rotation": {
+						"0.0": [0, 0, 0.01],
+						"0.25": [-48, 0, 0],
+						"1.0": [0, 0, 0.01]
+					}
+				}
+			}
+		},
+		"bottom_open": {
+			"animation_length": 1,
+			"bones": {
+				"bottom_lid": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.25": [-48, 0, 0],
+						"1.0": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}
