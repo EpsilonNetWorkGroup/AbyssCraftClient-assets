@@ -1,93 +1,97 @@
 {
   "credit": "Made with Blockbench",
   "parent": "builtin/entity",
+  "texture_size": [
+    64,
+    64
+  ],
   "display": {
     "thirdperson_righthand": {
-      "translation": [
-        0,
-        3,
-        1
+      "rotation": [
+        -142.53,
+        0.71,
+        -179.69
       ],
       "scale": [
-        0.55,
-        0.55,
-        0.55
+        0.3,
+        0.3,
+        0.3
       ]
     },
     "thirdperson_lefthand": {
+      "rotation": [
+        -175.53,
+        0.71,
+        -179.69
+      ],
       "translation": [
         0,
-        3,
-        1
+        -0.25,
+        0
       ],
       "scale": [
-        0.55,
-        0.55,
-        0.55
+        0.3,
+        0.3,
+        0.3
       ]
     },
     "firstperson_righthand": {
       "rotation": [
-        -6,
-        -35,
-        0
+        -180,
+        -0.5,
+        -180
       ],
       "translation": [
         1.25,
-        2.25,
-        0
+        -0.5,
+        -1.5
       ],
       "scale": [
-        0.68,
-        0.68,
-        0.68
+        0.59,
+        0.59,
+        0.44
       ]
     },
     "firstperson_lefthand": {
       "rotation": [
-        -8,
-        0,
-        0
+        -180,
+        -0.5,
+        -180
       ],
       "translation": [
-        0,
-        3.25,
-        0
+        1.25,
+        -0.5,
+        -1.5
       ],
       "scale": [
-        0.68,
-        0.68,
-        0.68
+        0.59,
+        0.59,
+        0.44
       ]
     },
-    "ground": {
-      "translation": [
-        0,
-        2,
-        0
+    "gui": {
+      "rotation": [
+        -174.25,
+        -1.25,
+        -180
       ],
-      "scale": [
-        0.5,
-        0.5,
-        0.5
+      "translation": [
+        -0.5,
+        -6.25,
+        0
       ]
     },
     "head": {
-      "rotation": [
-        0,
-        180,
-        0
-      ],
       "translation": [
         0,
-        13,
-        7
+        10.75,
+        0
       ]
     },
     "fixed": {
-      "rotation": [
-        0,
-        180,
+      "translation": [
+        0.5,
+        -6,
         0
       ]
     }
