@@ -7,7 +7,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [5, 5, 0]
+						"vector": [10.5, 357, 0]
 					}
 				},
 				"needle": {
@@ -22,7 +22,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, 0, 0]
+						"vector": [10.5, 346.5, 0]
 					}
 				},
 				"needle": {
@@ -37,7 +37,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -5, 0]
+						"vector": [10.5, 336, 0]
 					}
 				},
 				"needle": {
@@ -52,7 +52,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -10, 0]
+						"vector": [10.5, 325.5, 0]
 					}
 				},
 				"needle": {
@@ -67,7 +67,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -20, 0]
+						"vector": [21, 304.5, 0]
 					}
 				},
 				"needle": {
@@ -82,7 +82,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -25, 0]
+						"vector": [21, 294, 0]
 					}
 				},
 				"needle": {
@@ -97,7 +97,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -30, 0]
+						"vector": [21, 283.5, 0]
 					}
 				},
 				"needle": {
@@ -112,7 +112,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -35, 0]
+						"vector": [21, 273, 0]
 					}
 				},
 				"needle": {
@@ -127,7 +127,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -40, 0]
+						"vector": [21, 262.5, 0]
 					}
 				},
 				"needle": {
@@ -142,7 +142,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -45, 0]
+						"vector": [21, 252, 0]
 					}
 				},
 				"needle": {
@@ -157,7 +157,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -50, 0]
+						"vector": [21, 241.5, 0]
 					}
 				},
 				"needle": {
@@ -172,7 +172,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -55, 0]
+						"vector": [21, 231, 0]
 					}
 				},
 				"needle": {
@@ -187,7 +187,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -60, 0]
+						"vector": [10.5, 220.5, 0]
 					}
 				},
 				"needle": {
@@ -202,7 +202,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -65, 0]
+						"vector": [10.5, 210, 0]
 					}
 				},
 				"needle": {
@@ -217,7 +217,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -70, 0]
+						"vector": [10.5, 199.5, 0]
 					}
 				},
 				"needle": {
@@ -232,7 +232,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -75, 0]
+						"vector": [10.5, 189, 0]
 					}
 				},
 				"needle": {
@@ -247,7 +247,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -90, 0]
+						"vector": [10.5, 178.5, 0]
 					}
 				},
 				"needle": {
@@ -262,7 +262,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -105, 0]
+						"vector": [10.5, 168, 0]
 					}
 				},
 				"needle": {
@@ -277,7 +277,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -110, 0]
+						"vector": [10.5, 157.5, 0]
 					}
 				},
 				"needle": {
@@ -292,7 +292,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -115, 0]
+						"vector": [21, 147, 0]
 					}
 				},
 				"needle": {
@@ -307,7 +307,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -120, 0]
+						"vector": [21, 136.5, 0]
 					}
 				},
 				"needle": {
@@ -322,7 +322,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -125, 0]
+						"vector": [21, 126, 0]
 					}
 				},
 				"needle": {
@@ -337,7 +337,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -130, 0]
+						"vector": [21, 115.5, 0]
 					}
 				},
 				"needle": {
@@ -352,7 +352,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -135, 0]
+						"vector": [21, 105, 0]
 					}
 				},
 				"needle": {
@@ -367,7 +367,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -140, 0]
+						"vector": [21, 94.5, 0]
 					}
 				},
 				"needle": {
@@ -382,7 +382,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -145, 0]
+						"vector": [10.5, 84, 0]
 					}
 				},
 				"needle": {
@@ -397,7 +397,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -150, 0]
+						"vector": [10.5, 73.5, 0]
 					}
 				},
 				"needle": {
@@ -412,7 +412,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -155, 0]
+						"vector": [10.5, 63, 0]
 					}
 				},
 				"needle": {
@@ -427,7 +427,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -160, 0]
+						"vector": [10.5, 52.5, 0]
 					}
 				},
 				"needle": {
@@ -442,7 +442,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -165, 0]
+						"vector": [10.5, 42, 0]
 					}
 				},
 				"needle": {
@@ -457,7 +457,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -170, 0]
+						"vector": [10.5, 31.5, 0]
 					}
 				},
 				"needle": {
@@ -472,7 +472,7 @@
 			"bones": {
 				"ring": {
 					"rotation": {
-						"vector": [0, -175, 0]
+						"vector": [10.5, 10.5, 0]
 					}
 				},
 				"needle": {
@@ -483,21 +483,29 @@
 			}
 		},
 		"0.000000": {
-			"loop": "hold_on_last_frame",
+			"loop": true,
+			"animation_length": 6,
 			"bones": {
-				"ring": {
-					"rotation": {
-						"vector": [0, -180, 0]
-					}
-				},
 				"needle": {
 					"rotation": {
 						"vector": [0, 0, 0]
 					}
+				},
+				"ring": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.0": {
+							"vector": [360, 360, 360],
+							"easing": "linear"
+						},
+						"4.0": {
+							"vector": [0, 0, 0]
+						}
+					}
 				}
-			},
-			"particle_effects": {},
-			"timeline": {}
+			}
 		}
 	},
 	"geckolib_format_version": 2

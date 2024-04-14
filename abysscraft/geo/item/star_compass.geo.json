@@ -3869,7 +3869,7 @@
 				{
 					"name": "ring",
 					"parent": "star_compass",
-					"pivot": [0, 5, 0],
+					"pivot": [0.5, 5, 0],
 					"cubes": [
 						{
 							"origin": [-4, 5, 6],
