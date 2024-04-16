@@ -484,7 +484,7 @@
 		},
 		"0.000000": {
 			"loop": true,
-			"animation_length": 6,
+			"animation_length": 4,
 			"bones": {
 				"needle": {
 					"rotation": {
@@ -498,10 +498,11 @@
 						},
 						"2.0": {
 							"vector": [360, 360, 360],
-							"easing": "linear"
+							"easing": "easeInSine"
 						},
 						"4.0": {
-							"vector": [0, 0, 0]
+							"vector": [0, 0, 0],
+							"easing": "easeOutSine"
 						}
 					}
 				}
