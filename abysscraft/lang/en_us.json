@@ -89,7 +89,7 @@
   "gui.abysscraft.guild.owner": "Guild owner: %s",
   "gui.abysscraft.guild.create_new": "Create a new Guild",
   "gui.abysscraft.guild.guild_member": "Guild Members: %s",
-  "gui.abysscraft.guild.guild_member_num": "Number of guild members: %i/30",
+  "gui.abysscraft.guild.guild_member_num": "Number of guild members: %d/%d",
   "gui.abysscraft.guild.leave": "Leave the guild",
   "gui.abysscraft.guild.leave_tooltip": "If there is no other owner of the guild after leaving, the guild will be dissolved.",
   "gui.abysscraft.guild.create.name": "The name of the Guild to be created",
