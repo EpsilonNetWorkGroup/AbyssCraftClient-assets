@@ -81,7 +81,7 @@
   "gui.abysscraft.guild.lookup.not_found": "The specified guild cannot be found",
   "gui.abysscraft.guild.lookup.guild_full": "The guild is full",
   "gui.abysscraft.guild.lookup.wait_approval": "Your request to join is awaiting approval",
-  "gui.abysscraft.guild.lookup.fetch_random_desc": "Your request to join is awaiting approval",
+  "gui.abysscraft.guild.lookup.fetch_random": "Fetch random guilds",
   "gui.abysscraft.guild.pending_guild": "This guild is a pending guild, upon acceptance you will become a co-owner",
   "gui.abysscraft.guild.non_join": "You haven't joined any Guild yet",
   "gui.abysscraft.guild.you_in": "Guild you are in: %s",
