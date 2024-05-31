@@ -1,0 +1,21 @@
+{
+  "abysscraft.disconnect.anticheatverifyfail": "A verificação do anti-cheat falhou, por favor tenha certeza que o ClientGuard está instalado",
+  "abysscraft.disconnect.serverversionmismatch": "Por favor, tenha certeza de se conectar ao servidor AbyssCraft e atualizar o mod AbyssCraftClient\n Servidor: %s Cliente: %s",
+  "abysscraft.inGameHud.MiningFoundOre": "Você encontrou uma veia oculta!",
+  "abysscraft.inGameHud.MiningModeOff": "ModoMinerador: Desligado",
+  "abysscraft.inGameHud.MiningModeOn": "ModoMinerador: Ligado",
+  "abysscraft.inGameHud.OutOfBorder": "Este local está cheio de maldições terríveis, retorne para uma lugar seguro imediatamente",
+  "abysscraft.inGameHud.bossBar.Stamina": "Estamina",
+  "abysscraft.inGameHud.fast_travel": "%s Viagem Rápida",
+  "abysscraft.inGameHud.fast_travel.description": "Somente disponível em locais apropriados",
+  "abysscraft.region.edge_of_the_abyss.description": "0-1510 blocos",
+  "abysscraft.region.edge_of_the_abyss.name": "A beira do abismo",
+  "abysscraft.region.forest_of_temptation.description": "1510-2580 blocos",
+  "abysscraft.region.forest_of_temptation.name": "Foresta da Tentação",
+  "abysscraft.region.great_fault.description": "2580-4020 blocos",
+  "abysscraft.region.great_fault.name": "Grande Falha",
+  "abysscraft.region.orth.description": "Cidade do Grande Penhasco",
+  "abysscraft.region.orth.location.central_orth": "Orth Central",
+  "abysscraft.region.orth.location.golden_bridge": "Ponte Dourada",
+  "abysscraft.region.orth.location.golden_bridge.description": "Drops de monstros por moeda, Trocar velha moeda por moeda nova"
+}
