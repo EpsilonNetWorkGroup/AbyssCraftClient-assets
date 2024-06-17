@@ -1,13 +1,26 @@
 <owo-ui xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/wisp-forest/owo-lib/1.20/owo-ui.xsd">
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/wisp-forest/owo-lib/1.21/owo-ui.xsd">
     <components>
         <flow-layout direction="vertical">
             <children>
-                <flow-layout direction="horizontal">
+                <flow-layout id="tab" direction="horizontal">
                     <children>
-                        <button id="button">
-                            <text>一个好的按钮</text>
+                        <button id="tab-activity">
+                            <text translate="true">gui.abysscraft.guild.activity</text>
+                            <margins><all>5</all></margins>
                         </button>
+                        <button id="tab-lookup">
+                            <text translate="true">gui.abysscraft.guild.lookup</text>
+                            <margins><all>5</all></margins>
+                        </button>
+                        <button id="tab-create">
+                            <text translate="true">gui.abysscraft.guild.create_new</text>
+                            <margins><all>5</all></margins>
+                        </button>
+                    </children>
+                </flow-layout>
+                <flow-layout id="panel" direction="vertical">
+                    <children>
                     </children>
 
                     <padding>
@@ -28,4 +41,160 @@
             </surface>
         </flow-layout>
     </components>
+    
+    <templates>
+        <guild-activity-panel>
+            <flow-layout direction="vertical">
+                <children>
+                    <label>
+                        <shadow>true</shadow>
+                        <color>gray</color>
+                        <text translate="true">gui.abysscraft.guild.you_in</text>
+                    </label>
+                    <label id="guild-name" />
+                    <label id="guild-owner" />
+                    <label id="guild-declaration" />
+                    <label id="guild-manager" />
+                    <label id="guild-member" />
+                    <label id="guild-member-num" />
+                    <label id="guild-founding" />
+
+                    <label id="you-position" />
+                    <label id="need-co-owner-notice" />
+                    <flow-layout direction="horizontal">
+                        <children>
+                            <button id="manage-button">
+                                <margins><all>10</all></margins>
+                                <text translate="true">gui.abysscraft.guild.manage</text>
+                            </button>
+                            <button id="leave-button">
+                                <margins><all>10</all></margins>
+                                <text translate="true">gui.abysscraft.guild.leave</text>
+                            </button>
+                        </children>
+                    </flow-layout>
+                </children>
+                <horizontal-alignment>center</horizontal-alignment>
+            </flow-layout>
+        </guild-activity-panel>
+        <guild-non-join-panel>
+            <flow-layout direction="vertical">
+                <children>
+                    <item>
+                        <stack>minecraft:barrier</stack>
+                    </item>
+                    <label>
+                        <text translate="true">gui.abysscraft.guild.non_join</text>
+                        <color>red</color>
+                    </label>
+                    <flow-layout direction="horizontal">
+                        <children>
+                            <button id="lookup-button">
+                                <margins><all>5</all></margins>
+                                <text translate="true">gui.abysscraft.guild.lookup</text>
+                            </button>
+                            <button id="create-button">
+                                <margins><all>5</all></margins>
+                                <text translate="true">gui.abysscraft.guild.create_new</text>
+                            </button>
+                        </children>
+                    </flow-layout>
+                </children>
+                <horizontal-alignment>center</horizontal-alignment>
+            </flow-layout>
+        </guild-non-join-panel>
+        <guild-create-panel>
+            <flow-layout direction="vertical">
+                <children>
+                    <text-box id="guild-name">
+                        <sizing>
+                            <horizontal method="fixed">300</horizontal>
+                        </sizing>
+                    </text-box>
+                    <text-box id="guild-declaration">
+                        <sizing>
+                            <horizontal method="fixed">300</horizontal>
+                        </sizing>
+                    </text-box>
+                    <button id="guild-create">
+                        <text translate="true">gui.abysscraft.create</text>
+                        <margins><all>5</all></margins>
+                    </button>
+                </children>
+                <horizontal-alignment>center</horizontal-alignment>
+            </flow-layout>
+        </guild-create-panel>
+        <guild-lookup-panel>
+            <flow-layout direction="vertical">
+                <children>
+                    <flow-layout direction="horizontal">
+                        <children>
+                            <text-box id="guild-name">
+                                <sizing>
+                                    <horizontal method="fixed">200</horizontal>
+                                </sizing>
+                            </text-box>
+                            <button id="join">
+                                <margins><left>3</left></margins>
+                                <text translate="true">gui.abysscraft.join</text>
+                            </button>
+                        </children>
+                        <padding><all>5</all></padding>
+                    </flow-layout>
+                    <scroll direction="vertical">
+                        <flow-layout id="guilds" direction="vertical">
+                            <children>
+                                <label>
+                                    <text translate="true">gui.abysscraft.pls_wait</text>
+                                    <margins><all>20</all></margins>
+                                </label>
+                            </children>
+                        </flow-layout>
+                        <sizing><vertical method="fixed">100</vertical></sizing>
+                    </scroll>
+                    <flow-layout direction="horizontal">
+                        <children>
+                            <button id="prev-page">
+                                <text translate="true">gui.abysscraft.prev_page</text>
+                                <margins><right>20</right></margins>
+                            </button>
+                            <button id="next-page">
+                                <text translate="true">gui.abysscraft.next_page</text>
+                            </button>
+                        </children>
+                        <padding><all>5</all></padding>
+                    </flow-layout>
+                </children>
+                <horizontal-alignment>center</horizontal-alignment>
+            </flow-layout>
+        </guild-lookup-panel>
+        <guild-lookup-result-panel>
+            <flow-layout direction="horizontal">
+                <children>
+                    <flow-layout direction="vertical">
+                        <children>
+                            <label id="guildName" />
+                            <label id="guildDeclaration" />
+                            <label id="guildOwner" />
+                            <label id="guildNumberOfMember" />
+                            <label id="guildFoundingTime" />
+                        </children>
+                    </flow-layout>
+                    <flow-layout direction="vertical">
+                        <children>
+                            <button id="join">
+                                <margins><left>3</left></margins>
+                                <text translate="true">gui.abysscraft.join</text>
+                            </button>
+                        </children>
+                    </flow-layout>
+                </children>
+                <padding><all>10</all></padding>
+                <margins><bottom>5</bottom></margins>
+                <surface>
+                    <panel/>
+                </surface>
+            </flow-layout>
+        </guild-lookup-result-panel>
+    </templates>
 </owo-ui>
