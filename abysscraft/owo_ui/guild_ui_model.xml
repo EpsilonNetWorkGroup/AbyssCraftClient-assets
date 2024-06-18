@@ -13,10 +13,6 @@
                             <text translate="true">gui.abysscraft.guild.lookup</text>
                             <margins><all>5</all></margins>
                         </button>
-                        <button id="tab-create">
-                            <text translate="true">gui.abysscraft.guild.create_new</text>
-                            <margins><all>5</all></margins>
-                        </button>
                     </children>
                 </flow-layout>
                 <flow-layout id="panel" direction="vertical">
@@ -122,6 +118,12 @@
                     </button>
                 </children>
                 <horizontal-alignment>center</horizontal-alignment>
+                <padding>
+                    <all>10</all>
+                </padding>
+                <surface>
+                    <panel/>
+                </surface>
             </flow-layout>
         </guild-create-panel>
         <guild-lookup-panel>
