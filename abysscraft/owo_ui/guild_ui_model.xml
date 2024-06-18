@@ -39,7 +39,7 @@
     </components>
     
     <templates>
-        <guild-activity-panel>
+        <template name="guild-activity-panel">
             <flow-layout direction="vertical">
                 <children>
                     <label>
@@ -72,8 +72,8 @@
                 </children>
                 <horizontal-alignment>center</horizontal-alignment>
             </flow-layout>
-        </guild-activity-panel>
-        <guild-non-join-panel>
+        </template>
+        <template name="guild-non-join-panel">
             <flow-layout direction="vertical">
                 <children>
                     <item>
@@ -98,8 +98,8 @@
                 </children>
                 <horizontal-alignment>center</horizontal-alignment>
             </flow-layout>
-        </guild-non-join-panel>
-        <guild-create-panel>
+        </template>
+        <template name="guild-create-panel">
             <flow-layout direction="vertical">
                 <children>
                     <text-box id="guild-name">
@@ -125,8 +125,8 @@
                     <panel/>
                 </surface>
             </flow-layout>
-        </guild-create-panel>
-        <guild-lookup-panel>
+        </template>
+        <template name="guild-lookup-panel">
             <flow-layout direction="vertical">
                 <children>
                     <flow-layout direction="horizontal">
@@ -152,7 +152,7 @@
                                 </label>
                             </children>
                         </flow-layout>
-                        <sizing><vertical method="fixed">100</vertical></sizing>
+                        <sizing><vertical method="fixed">180</vertical></sizing>
                     </scroll>
                     <flow-layout direction="horizontal">
                         <children>
@@ -169,8 +169,8 @@
                 </children>
                 <horizontal-alignment>center</horizontal-alignment>
             </flow-layout>
-        </guild-lookup-panel>
-        <guild-lookup-result-panel>
+        </template>
+        <template name="guild-lookup-result-panel">
             <flow-layout direction="horizontal">
                 <children>
                     <flow-layout direction="vertical">
@@ -192,11 +192,42 @@
                     </flow-layout>
                 </children>
                 <padding><all>10</all></padding>
-                <margins><bottom>5</bottom></margins>
+                <margins><all>5</all></margins>
                 <surface>
                     <panel/>
                 </surface>
             </flow-layout>
-        </guild-lookup-result-panel>
+        </template>
+        <template name="guild-member-manage-panel">
+            <flow-layout direction="horizontal">
+                <children>
+                    <label id="member-name">
+                        <margins><right>10</right></margins>
+                    </label>
+                    <label id="member-role">
+                        <margins><right>10</right></margins>
+                    </label>
+                    <button id="change-role">
+                        <margins><left>3</left></margins>
+                        <text translate="true">gui.abysscraft.guild.manage.change_role</text>
+                    </button>
+                    <dropdown id="role-dropdown">
+                        <entries>
+                            <text translate="true">gui.abysscraft.guild.manage.change_role_to</text>
+                        </entries>
+                        <close-when-not-hovered>true</close-when-not-hovered>
+                    </dropdown>
+                    <button id="kick">
+                        <margins><left>3</left></margins>
+                        <text translate="true">gui.abysscraft.guild.manage.kick</text>
+                    </button>
+                </children>
+                <padding><all>10</all></padding>
+                <margins><bottom>5</bottom></margins>
+                <surface>
+                    <panel dark="true"/>
+                </surface>
+            </flow-layout>
+        </template>
     </templates>
 </owo-ui>
