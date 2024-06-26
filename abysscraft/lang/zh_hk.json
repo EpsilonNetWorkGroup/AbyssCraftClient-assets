@@ -196,8 +196,8 @@
   "item.abysscraft.tesuchi_scales.tooltip_1": "好味",
   "item.abysscraft.tesuchi_tail": "手足尾",
   "item.abysscraft.tesuchi_tail.tooltip_1": "脆皮",
-  "item.abysscraft.tooltip.drop_from": "由 %1 掉落，可以在 %2 和 %3 中找到",
-  "item.abysscraft.tooltip.drop_from.single": "由 %1 掉落，在 %2 中找到",
+  "item.abysscraft.tooltip.drop_from": "由 %1$s 掉落，可以在 %2$s 和 %3$s 中找到",
+  "item.abysscraft.tooltip.drop_from.single": "由 %1$s 掉落，在 %2$s 中找到",
   "item.abysscraft.white_backpack": "白色背包",
   "item.abysscraft.yellow_backpack": "黃色背包",
   "itemgroup.abysscraft": "深淵工藝"
