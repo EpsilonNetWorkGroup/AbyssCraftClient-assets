@@ -23,6 +23,7 @@
   "abysscraft.region.orth.location.golden_bridge": "Puente Dorado",
   "abysscraft.region.orth.location.golden_bridge.description": "Drops de monstruos por moneda, intercambiando moneda antigua por moneda nueva",
   "abysscraft.region.orth.location.guild_hq": "CG del Gremio",
+  "abysscraft.region.orth.location.guild_hq.description": "Patrocinador y modelaje de Patreon",
   "abysscraft.region.orth.location.residential": "Residencial",
   "abysscraft.region.orth.location.residential.description": "Mochila, Bloques decorativos y Herramientas",
   "abysscraft.region.orth.location.slums": "Barrios bajos",
@@ -30,6 +31,7 @@
   "abysscraft.region.orth.location.tower": "Torre",
   "abysscraft.region.orth.location.tower.description": "Libro de Encantamiento",
   "abysscraft.region.orth.name": "Orth",
+  "abysscraft.region.orth.trade_npc_1": "Cargador de Miel",
   "abysscraft.region.orth.trade_npc_2": "Odroy. El Apotecario",
   "abysscraft.region.orth.trade_npc_3": "John, Vendedor de Trigo",
   "abysscraft.region.orth.trade_npc_4": "Mercader del Submundo, Nereth"
