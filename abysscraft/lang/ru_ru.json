@@ -250,5 +250,7 @@
   "item.abysscraft.tooltip.drop_from.single": "Выпадает из %1$s, at %2$s",
   "item.abysscraft.white_backpack": "Белый Рюкзак",
   "item.abysscraft.yellow_backpack": "Желтый Рюкзак",
-  "itemgroup.abysscraft": "AbyssCraft"
+  "itemgroup.abysscraft": "AbyssCraft",
+  "jukebox_song.abysscraft.depp_in_abyss": "Неизвестный - Глубоко в Бездне",
+  "jukebox_song.abysscraft.orth_waltz": "Неизвестный - Орт Уолтс"
 }
