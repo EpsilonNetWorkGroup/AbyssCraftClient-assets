@@ -250,5 +250,7 @@
   "item.abysscraft.tooltip.drop_from.single": "在 %2$s 中找到的 %1$s 身上掉落",
   "item.abysscraft.white_backpack": "白色背包",
   "item.abysscraft.yellow_backpack": "黄色背包",
-  "itemgroup.abysscraft": "深渊工艺"
+  "itemgroup.abysscraft": "深渊工艺",
+  "jukebox_song.abysscraft.depp_in_abyss": "未知 - 深渊",
+  "jukebox_song.abysscraft.orth_waltz": "未知 - 奥斯华尔兹"
 }
