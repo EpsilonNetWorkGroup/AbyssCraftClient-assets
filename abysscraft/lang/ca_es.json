@@ -1,1 +1,8 @@
-{}
+{
+  "abysscraft.disconnect.anticheatverifyfail": "Ha fallat la verificació contra el frau, assegura't que has instal·lat ClientGuard",
+  "abysscraft.disconnect.serverversionmismatch": "Assegura't de connectar-te al servidor AbyssCraft i actualitzar el mod AbyssCraftClient.\n Servidor: %s Client: %s",
+  "abysscraft.inGameHud.MiningFoundOre": "Ha trobat una vena oculta!",
+  "abysscraft.inGameHud.OutOfBorder": "Aquest lloc està ple de malediccions terribles, torna a un lloc segur immediatament",
+  "abysscraft.inGameHud.bossBar.Stamina": "Stamina",
+  "abysscraft.inGameHud.fast_travel": "%s viatge ràpid"
+}
